@@ -1,0 +1,15 @@
+C:\Git brance\Reshebnik4\task13_sem4proisv\obj\Debug\net6.0\task13_sem4proisv.csproj.AssemblyReference.cache
+C:\Git brance\Reshebnik4\task13_sem4proisv\obj\Debug\net6.0\task13_sem4proisv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git brance\Reshebnik4\task13_sem4proisv\obj\Debug\net6.0\task13_sem4proisv.AssemblyInfoInputs.cache
+C:\Git brance\Reshebnik4\task13_sem4proisv\obj\Debug\net6.0\task13_sem4proisv.AssemblyInfo.cs
+C:\Git brance\Reshebnik4\task13_sem4proisv\obj\Debug\net6.0\task13_sem4proisv.csproj.CoreCompileInputs.cache
+C:\Git brance\Reshebnik4\task13_sem4proisv\bin\Debug\net6.0\task13_sem4proisv.exe
+C:\Git brance\Reshebnik4\task13_sem4proisv\bin\Debug\net6.0\task13_sem4proisv.deps.json
+C:\Git brance\Reshebnik4\task13_sem4proisv\bin\Debug\net6.0\task13_sem4proisv.runtimeconfig.json
+C:\Git brance\Reshebnik4\task13_sem4proisv\bin\Debug\net6.0\task13_sem4proisv.dll
+C:\Git brance\Reshebnik4\task13_sem4proisv\bin\Debug\net6.0\task13_sem4proisv.pdb
+C:\Git brance\Reshebnik4\task13_sem4proisv\obj\Debug\net6.0\task13_sem4proisv.dll
+C:\Git brance\Reshebnik4\task13_sem4proisv\obj\Debug\net6.0\refint\task13_sem4proisv.dll
+C:\Git brance\Reshebnik4\task13_sem4proisv\obj\Debug\net6.0\task13_sem4proisv.pdb
+C:\Git brance\Reshebnik4\task13_sem4proisv\obj\Debug\net6.0\task13_sem4proisv.genruntimeconfig.cache
+C:\Git brance\Reshebnik4\task13_sem4proisv\obj\Debug\net6.0\ref\task13_sem4proisv.dll
