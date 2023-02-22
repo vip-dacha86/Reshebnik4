@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task11sem4sum/1.0.0": {
+        "runtime": {
+          "task11sem4sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task11sem4sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

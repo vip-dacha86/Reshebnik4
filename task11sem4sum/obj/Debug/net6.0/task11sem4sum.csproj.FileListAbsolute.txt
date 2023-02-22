@@ -1,0 +1,15 @@
+C:\Git brance\Reshebnik4\task11sem4sum\obj\Debug\net6.0\task11sem4sum.csproj.AssemblyReference.cache
+C:\Git brance\Reshebnik4\task11sem4sum\obj\Debug\net6.0\task11sem4sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git brance\Reshebnik4\task11sem4sum\obj\Debug\net6.0\task11sem4sum.AssemblyInfoInputs.cache
+C:\Git brance\Reshebnik4\task11sem4sum\obj\Debug\net6.0\task11sem4sum.AssemblyInfo.cs
+C:\Git brance\Reshebnik4\task11sem4sum\obj\Debug\net6.0\task11sem4sum.csproj.CoreCompileInputs.cache
+C:\Git brance\Reshebnik4\task11sem4sum\bin\Debug\net6.0\task11sem4sum.exe
+C:\Git brance\Reshebnik4\task11sem4sum\bin\Debug\net6.0\task11sem4sum.deps.json
+C:\Git brance\Reshebnik4\task11sem4sum\bin\Debug\net6.0\task11sem4sum.runtimeconfig.json
+C:\Git brance\Reshebnik4\task11sem4sum\bin\Debug\net6.0\task11sem4sum.dll
+C:\Git brance\Reshebnik4\task11sem4sum\bin\Debug\net6.0\task11sem4sum.pdb
+C:\Git brance\Reshebnik4\task11sem4sum\obj\Debug\net6.0\task11sem4sum.dll
+C:\Git brance\Reshebnik4\task11sem4sum\obj\Debug\net6.0\refint\task11sem4sum.dll
+C:\Git brance\Reshebnik4\task11sem4sum\obj\Debug\net6.0\task11sem4sum.pdb
+C:\Git brance\Reshebnik4\task11sem4sum\obj\Debug\net6.0\task11sem4sum.genruntimeconfig.cache
+C:\Git brance\Reshebnik4\task11sem4sum\obj\Debug\net6.0\ref\task11sem4sum.dll
